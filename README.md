@@ -43,7 +43,7 @@ We welcome your contributions very much! PR's will be considered and of course b
 
 ## Donations
 
-* Donate link: http://so-wp.com/plugins/donations
+* Donate link: https://so-wp.com/plugins/donations
 
 ## Connect with us through
 
