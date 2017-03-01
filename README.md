@@ -1,4 +1,4 @@
-# SO Hide SEO Bloat
+# SO Turn On Debug
 
 <!--[![plugin version](https://img.shields.io/wordpress/plugin/v/so-turn-on-debug.svg)](https://wordpress.org/plugins/so-turn-on-debug)-->
 
