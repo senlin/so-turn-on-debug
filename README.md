@@ -47,9 +47,9 @@ We welcome your contributions very much! PR's will be considered and of course b
 
 ## Connect with us through
 
-[Website](https://bohanintl.com)
+[BHI Consulting](https://bohanintl.com)
 
-[Website](https://so-wp.com)
+[SO WP](https://so-wp.com)
 
 [Github](https://github.com/senlin) 
 
