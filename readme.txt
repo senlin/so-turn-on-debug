@@ -20,7 +20,7 @@ We support this plugin exclusively through [Github](https://github.com/senlin/so
 
 Thanks for your understanding and cooperation.
 
-If you like the SO Hide SEO Bloat plugin, please consider leaving a [review](https://wordpress.org/support/view/plugin-reviews/so-turn-on-debug?rate=5#postform). 
+If you like the SO Turn On Debug plugin, please consider leaving a [review](https://wordpress.org/support/view/plugin-reviews/so-turn-on-debug?rate=5#postform). 
 And you are of course welcome to make a [donation](https://so-wp.com/plugins/donations/). Thanks!
 
 
@@ -57,6 +57,8 @@ When the plugin is deactivated, it sets `WP_DEBUG` to `false`.
 = I have an issue with this plugin, where can I get support? =
 
 Please open an issue here on [Github](https://github.com/senlin/so-turn-on-debug/issues)
+
+== Changelog ==
 
 = 1.0.0 =
 
