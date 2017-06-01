@@ -4,7 +4,7 @@ Donate link: https://so-wp.com/plugins/donations
 Tags: wp_debug, wp-config, debugging
 Requires at least: 4.7.5
 Tested up to: 4.8
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPL-3.0+
 License URI: http://www.gnu.org/licenses/gpl-3.0.txt
 
