@@ -3,7 +3,7 @@
  * Plugin Name: SO Turn On Debug
  * Plugin URI:  https://so-wp.com/plugin/so-turn-on-debug/
  * Description: Use this plugin to turn on WP_DEBUG on sites where there is no access to the wp-config.php file
- * Version:     1.0.0
+ * Version:     1.0.1
  * Author:      SO WP
  * Author URI:  https://so-wp.com/plugins/
  * Text Domain: so-turn-on-debug

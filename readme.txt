@@ -2,8 +2,8 @@
 Contributors: senlin
 Donate link: https://so-wp.com/plugins/donations
 Tags: wp_debug, wp-config, debugging
-Requires at least: 4.7.2
-Tested up to: 4.7.3
+Requires at least: 4.7.5
+Tested up to: 4.8
 Stable tag: 1.0.0
 License: GPL-3.0+
 License URI: http://www.gnu.org/licenses/gpl-3.0.txt
@@ -59,6 +59,11 @@ When the plugin is deactivated, it sets `WP_DEBUG` to `false`.
 Please open an issue here on [Github](https://github.com/senlin/so-turn-on-debug/issues)
 
 == Changelog ==
+
+= 1.0.1 =
+
+* date: June 1, 2017
+* verified compatibility WP 4.8
 
 = 1.0.0 =
 

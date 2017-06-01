@@ -2,9 +2,9 @@
 
 [![plugin version](https://img.shields.io/wordpress/plugin/v/so-turn-on-debug.svg)](https://wordpress.org/plugins/so-turn-on-debug)
 
-###### Last updated on March 1, 2017
-###### requires at least WordPress 4.7.2
-###### tested up to WordPress 4.7.3
+###### Last updated on June 1, 2017
+###### requires at least WordPress 4.7.5
+###### tested up to WordPress 4.8
 ###### Author: [Piet Bos](https://github.com/senlin)
 
 Use this plugin to turn on WP_DEBUG on sites where there is no access to the wp-config.php file
@@ -47,7 +47,7 @@ We welcome your contributions very much! PR's will be considered and of course b
 
 ## Connect with us through
 
-[BHI Consulting](https://bohanintl.com)
+[BHI Consulting for Websites](https://bohanintl.com)
 
 [SO WP](https://so-wp.com)
 
@@ -59,6 +59,11 @@ We welcome your contributions very much! PR's will be considered and of course b
 
 
 ## Changelog
+
+### 1.0.1
+
+* date: June 1, 2017
+* verified compatibility WP 4.8
 
 ### 1.0.0
 
