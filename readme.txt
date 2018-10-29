@@ -3,7 +3,7 @@ Contributors: senlin
 Donate link: https://so-wp.com/plugins/donations
 Tags: wp_debug, wp-config, debugging
 Requires at least: 4.7.5
-Tested up to: 4.8
+Tested up to: 5.0
 Stable tag: 1.0.1
 License: GPL-3.0+
 License URI: http://www.gnu.org/licenses/gpl-3.0.txt
@@ -20,7 +20,7 @@ We support this plugin exclusively through [Github](https://github.com/senlin/so
 
 Thanks for your understanding and cooperation.
 
-If you like the SO Turn On Debug plugin, please consider leaving a [review](https://wordpress.org/support/view/plugin-reviews/so-turn-on-debug?rate=5#postform). 
+If you like the SO Turn On Debug plugin, please consider leaving a [review](https://wordpress.org/support/view/plugin-reviews/so-turn-on-debug?rate=5#postform).
 And you are of course welcome to make a [donation](https://so-wp.com/plugins/donations/). Thanks!
 
 
@@ -39,7 +39,7 @@ Follow these steps:
  2. Upload the zip file via the Plugins > Add New > Upload page &hellip; OR &hellip; unpack and upload with your favourite FTP client to the /plugins/ folder.
 
  3. Activate the plugin on the Plugins page.
- 
+
 Done!
 
 
