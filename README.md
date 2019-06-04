@@ -1,4 +1,4 @@
-# SO Turn On Debug
+# Turn On Debug
 
 [![plugin version](https://img.shields.io/wordpress/plugin/v/so-turn-on-debug.svg)](https://wordpress.org/plugins/so-turn-on-debug)
 
@@ -53,7 +53,7 @@ We welcome your contributions very much! PR's will be considered and of course b
 
 [Github](https://github.com/senlin) 
 
-[LinkedIn](https://www.linkedin.com/in/pietbos) 
+[LinkedIn](https://www.linkedin.com/in/pieterbos83) 
 
 [WordPress](https://profiles.wordpress.org/senlin/) 
 
