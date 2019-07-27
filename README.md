@@ -1,6 +1,6 @@
 # Turn On Debug
 
-[![plugin version](https://img.shields.io/wordpress/plugin/v/so-turn-on-debug.svg)](https://wordpress.org/plugins/so-turn-on-debug)
+[![plugin version](https://img.shields.io/wordpress/plugin/v/so-turn-on-debug.svg)](https://wordpress.org/plugins/so-turn-on-debug) [![WP compatibility](https://plugintests.com/plugins/so-turn-on-debug/wp-badge.svg)](https://plugintests.com/plugins/so-turn-on-debug/latest) [![PHP compatibility](https://plugintests.com/plugins/so-turn-on-debug/php-badge.svg)](https://plugintests.com/plugins/so-turn-on-debug/latest) [![ClassicPress tested on version 1.0.1](https://img.shields.io/badge/ClassicPress-1.0.1-03768e.svg?style=flat-round)](https://www.classicpress.net)
 
 ###### Last updated on October 29, 2018
 ###### requires at least WordPress 4.7.5
