@@ -1,6 +1,6 @@
 # Turn On Debug
 
-## March 31, 2020: No longer in active development, use at own risk
+### March 31, 2020: No longer in active development, use at own risk
 
 ###### Last updated on October 29, 2018
 ###### requires at least WordPress 4.7.5
